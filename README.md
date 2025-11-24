@@ -1,4 +1,4 @@
-# Responsible AI & Data Governance in Justice Systems
+# Responsible AI, Data Science & Governance for Recidivism Risk Scoring
 
 Case study from an MSc in Data Science on how to design **data governance** and **AI governance** for high-risk justice systems.  
 The project focuses on **recidivism risk scoring** with AI agents, under strict **GDPR** and **EU AI Act** constraints, and explores how a data scientist should integrate:
